@@ -8,6 +8,7 @@ class Usuario {
   String? _user;
   String? _password;
   String? apellidos;
+  int? edad;
 
   int? get idusuario => _idusuario;
   String? get user => _user;
