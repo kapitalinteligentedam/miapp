@@ -10,6 +10,7 @@ class Cliente{
   String? email;
   String? direccion;
   double riesgo = 0;
+  String? provincia;
 
   Cliente();
   
